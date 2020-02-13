@@ -15,7 +15,7 @@ You will also see any lint errors in the console.
 ### Project Description
  video plays with play and pause and also replay once the video is done- made use of youtube api <br />
  sample quiz section- to assess the students what they have learnt from the video - can be improvised<br />
- questions section<br />
+ ### Questions section<br />
   Question1- asking the student about what he/she learnt from the video<br />
   Question2- asking if the student would recommend his/her friends to watch the vidoe, in that case other students might also be interested and involved and alse the former student can get to watch the video twice. <br />
   Question3- how many times pause - we can determine the difficulty level of the video- if the kid understood the video or not. <br />
